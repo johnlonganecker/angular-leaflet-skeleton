@@ -1,0 +1,23 @@
+@import "variables.less";
+
+h1 {
+    font-size: 30px;
+}
+#map {
+    width: 100%;
+    height: 100%;
+}
+#nav {
+    position: absolute;
+    top: 0;
+    height: @navHeight;
+    width: 100%;
+    z-index: 9999999;
+    background: @defaultBackground;
+}
+.leaflet-top, .leaflet-sidebar {
+    top: @navHeight;
+}
+#sidebar {
+    background: @defaultBackground;
+}

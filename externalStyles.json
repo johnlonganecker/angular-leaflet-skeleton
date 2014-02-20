@@ -1,0 +1,4 @@
+[
+    "libs/leaflet-0.7.2/leaflet.css",
+    "scripts/bower_components/leaflet-sidebar/src/L.Control.Sidebar.css"
+]

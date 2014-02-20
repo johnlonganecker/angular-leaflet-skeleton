@@ -1,0 +1,23 @@
+{
+  "name": "weatherblur",
+  "version": "0.0.1",
+  "authors": [
+    "jlongnbt <john.longanecker@nbtsolutions.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+  },
+  "dependencies": {
+    "angular": "~1.2.13",
+    "angular-route": "~1.2.13",
+    "leaflet-sidebar": "~0.1.4"
+  }
+}

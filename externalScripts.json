@@ -1,0 +1,6 @@
+[
+    "scripts/bower_components/angular/angular.min.js",
+    "scripts/bower_components/angular-route/angular-route.min.js",
+    "libs/leaflet-0.7.2/leaflet.js",
+    "scripts/bower_components/leaflet-sidebar/src/L.Control.Sidebar.js"
+]
